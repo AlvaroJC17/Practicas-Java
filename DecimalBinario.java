@@ -13,18 +13,14 @@ public class DecimalBinario {
 		 
 		 int num1 = 0;
 		 
-		 
-		 System.out.println("Ingrese un numero decimal:");
+		System.out.println("Ingrese un numero decimal:");
 		 num1 = sc.nextInt();
 		 
 		
 		 System.out.println("El resultado en binario del valor ingresado es: " + decimalBinario(num1));
 		 
-		 
-		 
-		 sc.close();
- 
-	}
+		  sc.close();
+ 	}
  
 			 
 		 
@@ -49,15 +45,9 @@ public class DecimalBinario {
 		System.out.println();
 		
 		return binario;
-		
-		
-		
-		
+			
 	}
 	
-	
-		
-				 
 }
 				
 		 
