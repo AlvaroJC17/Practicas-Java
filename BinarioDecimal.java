@@ -41,15 +41,6 @@ public class BinarioDecimal {
 		
 		sc.close();
 	}
-				
-				
-				
-				
-	
-	
-	
-				
-				
 	/*
 	 * @param Convierte de binario a decimal
 	 */
