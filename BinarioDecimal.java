@@ -52,9 +52,6 @@ public class BinarioDecimal {
 		int [] ArrayEnteros;
 		int exp = 0, base = 0, binario = 0;
 		
-		
-		//num = Integer.toString(decimal); // convertir entero a cadena, esta linea la elimine por que usando variable int como entrada se limitaba el programa a max 10 digitos
-		
 		cadenaInvertida = new StringBuilder(decimal).reverse().toString();
 		
 		arrayNum = cadenaInvertida.toCharArray(); // pasar la cadena a caracteres indivuduales
